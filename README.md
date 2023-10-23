@@ -8,5 +8,5 @@
   - Gmail: [mohdaszif077@gmail.com](mailto:mohdaszif077@gmail.com)
 - 🚀 Currently, I'm working on an exciting React project, and I'm passionate about building robust and user-friendly web applications.
 
-Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or have any questions!
+
 
