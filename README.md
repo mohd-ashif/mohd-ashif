@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on open-source projects, particularly those related to web development.
 - 📫 How to reach me:
   - Gmail: [mohdaszif077@gmail.com](mailto:mohdaszif077@gmail.com)
-- 🚀 Currently, I'm working on an exciting React project, and I'm passionate about building robust and user-friendly web applications.
+- 🚀 Currently, I'm working on an exciting MERN project, and I'm passionate about building robust and user-friendly web applications.
 
 
 
