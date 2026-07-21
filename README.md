@@ -7,7 +7,19 @@
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A5ACD&text=Muhammed%20Ashif&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
----
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=F59E0B"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=22c55e&label=Repositories&query=public_repos&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+
+</div>
 
 # 🚀 About Me
 
