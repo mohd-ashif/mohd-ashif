@@ -6,8 +6,15 @@
 
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
-<img src="https://komarev.com/ghpvc/?username=Muhammed Ashif &label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
+  <img src="assets/banner.gif" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile+Views&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/muhammedashif?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/muhammedashif?style=for-the-badge&logo=github"/>
+</p>
 </div>
 
 ---
