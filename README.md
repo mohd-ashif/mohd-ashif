@@ -6,11 +6,7 @@
 
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A5ACD&text=Muhammed%20Ashif&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 ---
 
 # 🚀 About Me
