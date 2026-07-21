@@ -12,18 +12,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&label=Stars&style=for-the-badge&color=F59E0B"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=22C55E"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=3B82F6"/>
 
 <img src="https://img.shields.io/badge/dynamic/json?label=Ashif%20Repositories&query=public_repos&url=https://api.github.com/users/muhammedashif&style=for-the-badge&color=22C55E"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 
 </div>
 
