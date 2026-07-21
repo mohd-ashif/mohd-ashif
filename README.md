@@ -1,35 +1,49 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A5ACD&text=Muhammed%20Ashif&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+
 # 👋 Hi, I'm Muhammed Ashif
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Full+Stack+Engineer;Building+Production+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+Python;LLMs+%7C+Vector+Databases+%7C+ChromaDB;Welcome+to+my+GitHub!" />
+### 🚀 AI Full Stack Engineer | AI Builder | Open Source Developer
 
-### 🚀 Building Intelligent Software That Solves Real Business Problems
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Full+Stack+Engineer;Building+Production+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+Python;LLMs+%7C+ChromaDB+%7C+Vector+Databases;Building+AI+Migration+Studio;Always+Learning+Something+New" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A5ACD&text=Muhammed%20Ashif&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
-<!-- Following -->
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=3b82f6"/>
+### 💡 Building Intelligent Software That Solves Real Business Problems
 
-<!-- Public Gists -->
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=public_gists&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=f97316"/>
+<br>
 
-<!-- Account Type -->
-<img src="https://img.shields.io/badge/dynamic/json?label=Account&query=type&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=06b6d4"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&label=Stars&style=for-the-badge&color=F59E0B"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=22C55E"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=public_gists&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=F97316"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+
+</div>
+
+---
 
 # 🚀 About Me
 
-I'm a **Full Stack Developer** passionate about **Artificial Intelligence**, **LLMs**, and **Enterprise Software Development**.
+I'm a **Full Stack Developer** passionate about **Artificial Intelligence**, **Large Language Models**, and **Enterprise Software Development**.
 
-Currently I'm building an **AI Code Migration Studio** that automatically migrates projects between frameworks using AI-powered code analysis.
+Currently I'm building an **AI Code Migration Studio** that automatically migrates applications between frameworks using AI-powered code analysis.
 
 ### 🎯 Current Focus
 
 - 🤖 AI Code Migration Platform
 - 🧠 Large Language Models (LLMs)
-- 🔍 Semantic Search using ChromaDB
+- 🔍 ChromaDB & Vector Search
 - ⚡ FastAPI Microservices
 - ☁ Azure Cloud
-- 🐳 Docker & CI/CD
+- 🐳 Docker & GitHub Actions
 - 📊 Enterprise ERP Solutions
 
 ---
@@ -57,7 +71,7 @@ An enterprise platform capable of:
 
 Enterprise Accounting & Inventory Software
 
-Features
+**Features**
 
 - Accounting
 - GST
@@ -74,32 +88,34 @@ Features
 
 ## Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite,html,css"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite,html,css&perline=9"/>
 </p>
 
 ## Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&perline=4"/>
 </p>
 
 ## Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=4"/>
 </p>
 
-## AI & Machine Learning
+## DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,azure,github,git,linux&perline=5"/>
+</p>
+
+---
+
+# 🤖 AI & Machine Learning
 
 - OpenAI API
-- LLM Applications
+- Large Language Models (LLMs)
 - Prompt Engineering
 - ChromaDB
 - Vector Databases
@@ -108,21 +124,12 @@ Features
 
 ---
 
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,azure,github,git,linux"/>
-
-</p>
----
-
 # 🌱 Currently Learning
 
 - AI Agents
-- MCP (Model Context Protocol)
+- Model Context Protocol (MCP)
 - LangGraph
-- RAG Applications
+- Retrieval-Augmented Generation (RAG)
 - Kubernetes
 - Azure AI
 - Multi-Agent Systems
@@ -131,50 +138,45 @@ Features
 
 # 🚀 Featured Projects
 
-### 🤖 AI Code Migration Studio
-
-Enterprise AI Platform
+## 🤖 AI Code Migration Studio
 
 - AST Parser
 - AI Validation
 - Multi Framework Migration
 - Reverse File Search
 - ChromaDB
+- Migration Reports
 
 ---
 
-### 📚 Bizpole ERP
-
-Accounting Platform
+## 📚 Bizpole ERP
 
 - Inventory
 - GST
+- Accounting
 - Reports
 - Payroll
 - Finance
 
 ---
 
-### 🔍 Reverse File Search
-
-AI-powered Local Search
+## 🔍 Reverse File Search
 
 - Embeddings
 - Semantic Search
-- Vector Database
 - ChromaDB
+- Vector Database
 
 ---
 
-
 # 🎯 Goals for 2026
 
-- Build Production AI Products
-- Master AI Engineering
-- Learn Kubernetes
-- Build Multi-Agent Systems
-- Open Source AI Projects
-- Become AI Solution Architect
+- 🚀 Build Production AI Products
+- 🤖 Master AI Engineering
+- ☸ Learn Kubernetes
+- 🧠 Build Multi-Agent Systems
+- 🌍 Contribute to Open Source
+- 👨‍💼 Become an AI Solution Architect
 
 ---
 
@@ -182,8 +184,8 @@ AI-powered Local Search
 
 | Area | Technologies |
 |------|--------------|
-| Frontend | React, TypeScript, Tailwind |
-| Backend | Node.js, FastAPI |
+| Frontend | React, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express, FastAPI |
 | Database | MySQL, PostgreSQL, Redis |
 | AI | OpenAI, ChromaDB, LLMs |
 | Cloud | Azure |
@@ -193,22 +195,18 @@ AI-powered Local Search
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-|
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-|
-
-<a href="muhammedashif2807@gmail.com">
-Email
+<a href="mailto:muhammedashif2807@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -225,8 +223,10 @@ Email
 
 ### ⭐ Thanks for visiting my profile!
 
-**If you like my work, consider giving a ⭐ to my repositories!**
+If you enjoy my work, consider **⭐ starring** my repositories.
 
-🚀 Happy Coding 🚀
+🚀 Happy Coding!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F5FF,100:6A5ACD"/>
