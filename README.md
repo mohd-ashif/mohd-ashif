@@ -11,6 +11,14 @@
 </p>
 
 <p align="center">
+  <img src="assets/banner.gif" width="100%" alt="Muhammed Ashif Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile+Views&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/muhammedashif?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/muhammedashif?style=for-the-badge&logo=github"/>
