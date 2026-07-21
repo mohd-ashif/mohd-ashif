@@ -6,7 +6,7 @@
 
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammed Ashif &label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
