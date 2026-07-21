@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=3B82F6"/>
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=public_gists&url=https://api.github.com/users/YOUR_USERNAME&style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=public_gists&url=https://api.github.com/users/muhammedashif&style=for-the-badge&color=F97316"/>
 
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 
