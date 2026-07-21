@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A5ACD&text=Muhammed%20Ashif&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=Ashif&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
 
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
 
