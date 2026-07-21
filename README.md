@@ -7,10 +7,6 @@
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile%20Views&color=0891b2&style=for-the-badge" />
 
@@ -21,14 +17,6 @@
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
 
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile+Views&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/followers/muhammedashif?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/muhammedashif?style=for-the-badge&logo=github"/>
-</p>
-</div>
-
 ---
 
 # 🚀 About Me
