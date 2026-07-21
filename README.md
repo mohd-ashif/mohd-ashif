@@ -1,12 +1,74 @@
-- ### Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👋  I'm I'm Muhammed Ashif (https://github.com/mohd-ashif) , a Junior Fullstack Developer passionate about technology and always eager to learn and improve my skills.
-- 👀 I'm interested in web development, software engineering, and learning new technologies.
-- 🌱 I'm currently learning and expanding my skills in React, Node.js, and working with databases.
-- 💞️ I'm looking to collaborate on open-source projects, particularly those related to web development.
-- 📫 How to reach me:
-  - Gmail: [mohdaszif077@gmail.com](mailto:mohdaszif077@gmail.com)
-- 🚀 Currently, I'm working on an exciting MERN project, and I'm passionate about building robust and user-friendly web applications.
+👋 Muhammed Ashif
 
+Senior Full Stack Developer
 
+React • Node.js • FastAPI
 
+AI • LLM • ChromaDB • Vector Search
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Current Project
+
+AI Code Migration Studio
+
+✔ React → Angular
+
+✔ React → Vue
+
+✔ React → Next.js
+
+✔ AI Code Review
+
+✔ AST Transformations
+
+✔ Reverse File Search
+
+✔ ChromaDB
+
+✔ FastAPI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+React
+TypeScript
+Node.js
+FastAPI
+Python
+MySQL
+PostgreSQL
+Redis
+Docker
+Azure
+GitHub Actions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 GitHub Analytics
+
+Stats
+Streak
+Contribution Graph
+Activity Graph
+Trophies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 Featured Projects
+
+• AI Code Migration Studio
+• Bizpole Books ERP
+• Reverse File Search
+• AI OCR Engine
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect
+
+LinkedIn
+Portfolio
+Email
