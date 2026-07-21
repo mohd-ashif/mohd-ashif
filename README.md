@@ -12,8 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
-
+<img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Ashif%20Profile&style=for-the-badge&color=0891b2"/>
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&label=Stars&style=for-the-badge&color=F59E0B"/>
