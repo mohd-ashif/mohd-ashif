@@ -11,7 +11,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=muhammedashif&label=Profile%20Views&color=0891b2&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/muhammedashif?label=Followers&style=for-the-badge&color=7C3AED" />
+
+<img src="https://img.shields.io/github/stars/muhammedashif?affiliations=OWNER&style=for-the-badge&color=F59E0B" />
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
+
 </p>
 
 <p align="center">
