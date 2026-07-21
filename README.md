@@ -7,11 +7,7 @@
 ### 🚀 Building Intelligent Software That Solves Real Business Problems
 
 <p align="center">
-  <img src="assets/banner.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Muhammed Ashif Banner"/>
+  <img src="assets/banner.png" width="100%">
 </p>
 
 <p align="center">
