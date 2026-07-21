@@ -114,32 +114,6 @@ Features
 
 ---
 
-# 🏗 Architecture I Love Building
-
-```text
-                    Users
-                      │
-                      ▼
-             React / Next.js UI
-                      │
-                      ▼
-               FastAPI / Node API
-                      │
-      ┌───────────────┴───────────────┐
-      ▼                               ▼
- AI Processing                  Business Logic
-      ▼                               ▼
- OpenAI API                    MySQL/PostgreSQL
-      ▼
- ChromaDB
-      ▼
- Vector Search
-      ▼
- AI Generated Results
-```
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -231,43 +205,6 @@ AI-powered Local Search
 
 ---
 
-# 💻 Development Workflow
-
-```text
-Idea
- │
- ▼
-Research
- │
- ▼
-Architecture
- │
- ▼
-UI Design
- │
- ▼
-Frontend Development
- │
- ▼
-Backend APIs
- │
- ▼
-AI Integration
- │
- ▼
-Testing
- │
- ▼
-Docker
- │
- ▼
-Azure Deployment
- │
- ▼
-Production 🚀
-```
-
----
 
 # 🎯 Goals for 2026
 
@@ -309,14 +246,8 @@ LinkedIn
 
 |
 
-<a href="mailto:YOUR_EMAIL">
+<a href="muhammedashif2807@gmail.com">
 Email
-</a>
-
-|
-
-<a href="https://YOUR_PORTFOLIO">
-Portfolio
 </a>
 
 </p>
